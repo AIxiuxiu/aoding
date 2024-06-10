@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"Vue.volar",
+		"editorconfig.editorconfig",
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"stylelint.vscode-stylelint",
+		"rain.vue-scss-variable-scan",
+		"naumovs.color-highlight"
+	]
+}
